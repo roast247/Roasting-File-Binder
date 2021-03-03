@@ -1,0 +1,12 @@
+C:\Users\macpr\Desktop\stub\bin\Debug\stub.exe.config
+C:\Users\macpr\Desktop\stub\bin\Debug\stub.exe
+C:\Users\macpr\Desktop\stub\bin\Debug\stub.pdb
+C:\Users\macpr\Desktop\stub\bin\Debug\stub.xml
+C:\Users\macpr\Desktop\stub\obj\Debug\stub.vbprojAssemblyReference.cache
+C:\Users\macpr\Desktop\stub\obj\Debug\stub.Form1.resources
+C:\Users\macpr\Desktop\stub\obj\Debug\stub.Resources.resources
+C:\Users\macpr\Desktop\stub\obj\Debug\stub.vbproj.GenerateResource.cache
+C:\Users\macpr\Desktop\stub\obj\Debug\stub.vbproj.CoreCompileInputs.cache
+C:\Users\macpr\Desktop\stub\obj\Debug\stub.exe
+C:\Users\macpr\Desktop\stub\obj\Debug\stub.xml
+C:\Users\macpr\Desktop\stub\obj\Debug\stub.pdb
